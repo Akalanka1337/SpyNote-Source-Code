@@ -1,0 +1,133 @@
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.vbprojResolveAssemblyReference.cache
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Resources.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.UserControl1.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.vbproj.GenerateResource.Cache
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Interop.WMPLib.dll
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.vbproj.ResolveComReference.cache
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.about.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Account_Manager.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Add_Contacts.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Add_Files.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Applications.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Build_client.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Calls_Manager.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Camera_Manager.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Chat.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Contacts_Manager.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Download_Manager.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.editor_sms.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Files_Rename.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.File_Manager.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Form1.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Host_replace.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.key_logger.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Location_Manager.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.MainNotice.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Notepad.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.open_port.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Package_Info.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Phone.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Record_Audio.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Settings_0.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Settings_Phone.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Shell_Terminal.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\Spy_Note.SMS_Manager.resources
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\bin\Debug\Interop.WMPLib.dll
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\bin\Debug\Spy_Note.exe.config
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\bin\Debug\Spy_Note.exe
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\bin\Debug\Spy_Note.pdb
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\bin\Debug\Spy_Note.xml
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\bin\Debug\Interop.WMPLib.dll
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.vbprojResolveAssemblyReference.cache
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Interop.WMPLib.dll
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.vbproj.ResolveComReference.cache
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.about.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Account_Manager.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Add_Contacts.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Add_Files.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Applications.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Build_client.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Calls_Manager.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Camera_Manager.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Chat.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Contacts_Manager.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Download_Manager.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.editor_sms.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Files_Rename.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.File_Manager.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Form1.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Host_replace.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.key_logger.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Location_Manager.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.MainNotice.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Resources.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Notepad.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.open_port.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Package_Info.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Phone.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Record_Audio.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Settings_0.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Settings_Phone.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Shell_Terminal.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.SMS_Manager.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.UserControl1.resources
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.vbproj.GenerateResource.Cache
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.exe
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.xml
+C:\Users\Samad.Dz\Desktop\Sources\Spy_Note\Spy_Note\obj\Debug\Spy_Note.pdb
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\bin\Debug\SpyNote.exe.config
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\bin\Debug\SpyNote.exe
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\bin\Debug\SpyNote.pdb
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\bin\Debug\SpyNote.xml
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\SpyNote.exe
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\SpyNote.xml
+C:\Users\Samad.Dz\Desktop\Spy_Note\Spy_Note\obj\Debug\SpyNote.pdb
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\bin\Debug\SpyNote.exe.config
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\bin\Debug\SpyNote.exe
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\bin\Debug\SpyNote.pdb
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\bin\Debug\SpyNote.xml
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\bin\Debug\Interop.WMPLib.dll
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\bin\Debug\AxInterop.WMPLib.dll
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.vbprojAssemblyReference.cache
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Interop.WMPLib.dll
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\AxInterop.WMPLib.dll
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.vbproj.ResolveComReference.cache
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.about.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Account_Manager.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Add_Contacts.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Add_Files.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Applications.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Build_client.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Calls_Manager.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Camera_Manager.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Chat.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Contacts_Manager.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Download_Manager.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.editor_sms.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Files_Rename.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.File_Manager.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Form1.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Host_replace.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.key_logger.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Location_Manager.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.MainNotice.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Resources.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Notepad.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.open_port.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Package_Info.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Phone.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Record_Audio.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Settings_0.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Settings_Phone.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.Shell_Terminal.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.SMS_Manager.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.UserControl1.resources
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.vbproj.GenerateResource.cache
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\Spy_Note.vbproj.CoreCompileInputs.cache
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\SpyNote.exe
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\SpyNote.xml
+F:\Internet Download Manager\Compressed\مجلد جديد\مجلد جديد\Spy_Note\Spy_Note\Spy_Note\obj\Debug\SpyNote.pdb

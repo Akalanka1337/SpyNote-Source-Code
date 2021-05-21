@@ -1,0 +1,406 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{38E4AF5F-0E9F-49F2-8149-5F245D93E3E8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Spy_Note.My.MyApplication</StartupObject>
+    <RootNamespace>Spy_Note</RootNamespace>
+    <AssemblyName>SpyNote</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SpyNote.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SpyNote.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>1.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="about.Designer.vb">
+      <DependentUpon>about.vb</DependentUpon>
+    </Compile>
+    <Compile Include="about.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Account_Manager.Designer.vb">
+      <DependentUpon>Account_Manager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Account_Manager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Contacts.Designer.vb">
+      <DependentUpon>Add_Contacts.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Contacts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Files.Designer.vb">
+      <DependentUpon>Add_Files.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Files.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Applications.Designer.vb">
+      <DependentUpon>Applications.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Applications.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Build_client.Designer.vb">
+      <DependentUpon>Build_client.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Build_client.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calls_Manager.Designer.vb">
+      <DependentUpon>Calls_Manager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Calls_Manager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Camera_Manager.Designer.vb">
+      <DependentUpon>Camera_Manager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Camera_Manager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chat.Designer.vb">
+      <DependentUpon>Chat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Chat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contacts_Manager.Designer.vb">
+      <DependentUpon>Contacts_Manager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Contacts_Manager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Download_Manager.Designer.vb">
+      <DependentUpon>Download_Manager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Download_Manager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editor_sms.Designer.vb">
+      <DependentUpon>editor_sms.vb</DependentUpon>
+    </Compile>
+    <Compile Include="editor_sms.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Files_Rename.Designer.vb">
+      <DependentUpon>Files_Rename.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Files_Rename.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File_Manager.Designer.vb">
+      <DependentUpon>File_Manager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="File_Manager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Host_replace.Designer.vb">
+      <DependentUpon>Host_replace.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Host_replace.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="key_logger.Designer.vb">
+      <DependentUpon>key_logger.vb</DependentUpon>
+    </Compile>
+    <Compile Include="key_logger.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Location_Manager.Designer.vb">
+      <DependentUpon>Location_Manager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Location_Manager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainNotice.Designer.vb">
+      <DependentUpon>MainNotice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainNotice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="store_0.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Notepad.Designer.vb">
+      <DependentUpon>Notepad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Notepad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="open_port.Designer.vb">
+      <DependentUpon>open_port.vb</DependentUpon>
+    </Compile>
+    <Compile Include="open_port.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Package_Info.Designer.vb">
+      <DependentUpon>Package_Info.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Package_Info.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Phone.Designer.vb">
+      <DependentUpon>Phone.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Phone.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Record_Audio.Designer.vb">
+      <DependentUpon>Record_Audio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Record_Audio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings_0.Designer.vb">
+      <DependentUpon>Settings_0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings_0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings_Phone.Designer.vb">
+      <DependentUpon>Settings_Phone.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings_Phone.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Shell_Terminal.Designer.vb">
+      <DependentUpon>Shell_Terminal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Shell_Terminal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SMS_Manager.Designer.vb">
+      <DependentUpon>SMS_Manager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SMS_Manager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SocketServer.vb" />
+    <Compile Include="Theme_0.vb" />
+    <Compile Include="UserControl1.Designer.vb">
+      <DependentUpon>UserControl1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="about.resx">
+      <DependentUpon>about.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Account_Manager.resx">
+      <DependentUpon>Account_Manager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Contacts.resx">
+      <DependentUpon>Add_Contacts.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Files.resx">
+      <DependentUpon>Add_Files.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Applications.resx">
+      <DependentUpon>Applications.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Build_client.resx">
+      <DependentUpon>Build_client.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calls_Manager.resx">
+      <DependentUpon>Calls_Manager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Camera_Manager.resx">
+      <DependentUpon>Camera_Manager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chat.resx">
+      <DependentUpon>Chat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contacts_Manager.resx">
+      <DependentUpon>Contacts_Manager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Download_Manager.resx">
+      <DependentUpon>Download_Manager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editor_sms.resx">
+      <DependentUpon>editor_sms.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Files_Rename.resx">
+      <DependentUpon>Files_Rename.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File_Manager.resx">
+      <DependentUpon>File_Manager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Host_replace.resx">
+      <DependentUpon>Host_replace.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="key_logger.resx">
+      <DependentUpon>key_logger.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Location_Manager.resx">
+      <DependentUpon>Location_Manager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainNotice.resx">
+      <DependentUpon>MainNotice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notepad.resx">
+      <DependentUpon>Notepad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="open_port.resx">
+      <DependentUpon>open_port.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Package_Info.resx">
+      <DependentUpon>Package_Info.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Phone.resx">
+      <DependentUpon>Phone.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Record_Audio.resx">
+      <DependentUpon>Record_Audio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings_0.resx">
+      <DependentUpon>Settings_0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings_Phone.resx">
+      <DependentUpon>Settings_Phone.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Shell_Terminal.resx">
+      <DependentUpon>Shell_Terminal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMS_Manager.resx">
+      <DependentUpon>SMS_Manager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1.resx">
+      <DependentUpon>UserControl1.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
